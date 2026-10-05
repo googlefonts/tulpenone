@@ -1,0 +1,6 @@
+buildVariable: false
+removeOutlineOverlaps: false
+noProductionNames: true
+autohintTTF: false
+sources:
+  - TulpenOne-Regular.glyphs
